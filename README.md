@@ -1,4 +1,4 @@
-# PYTHON [STUDENT SCORE MANAGEMENT]
+# [PYTHON] STUDENT SCORE MANAGEMENT
 
 # Introduction
 - This project was created just for my last exam at UET.
